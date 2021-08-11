@@ -41,7 +41,7 @@ Medical Insurance Predictor will help you to estimate the charges by using certa
 
       1. Before hyperparamter tuning we get following acuuracy 
       2. Linear Regression      : 75%
-      3. RandomForest Regressor : 89.77%
+      3. RandomForest Regressor : 89.57%
       4. XGB Regressor          : 87.46%
       So from above acuuracy analysis we done hyperparamter tuning on RandomForest Regressor and XGB Regressor.
 
@@ -55,4 +55,4 @@ Medical Insurance Predictor will help you to estimate the charges by using certa
               
 **Model Building** : 
 
-      1. After hyperparameter tuning RandomForest Regressor gives best acuuracy (89.77), so we use this model for our predictions.
+      1. After hyperparameter tuning RandomForest Regressor gives best acuuracy (89.85), so we use this model for our predictions.
