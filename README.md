@@ -17,10 +17,10 @@ Medical Insurance Predictor will help you to estimate the charges by using certa
 
 **Choose this project to find out following information**:
 
-      •	To find whether smoking has any effect on medical insuarance charges.
-      •	As BMI increases then charges for insurance increases are not.
-      •	To find relationship between age and insurance charges .
-      •	Find the  chances of winning world cup by host country. 
+      • To find whether smoking has any effect on medical insuarance charges.
+      • As BMI increases then charges for insurance increases are not.
+      • To find relationship between age and insurance charges .
+      • Find the  chances of winning world cup by host country. 
              
 **Conclusion** :
 
