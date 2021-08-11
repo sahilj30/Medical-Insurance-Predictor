@@ -15,7 +15,7 @@ Medical Insurance Predictor will help you to estimate the charges by using certa
               * HYPER PARAMETER TUNING OF BEST ACCURACY MODELS
 
 
-**Choose this project to find out following information **:
+**Choose this project to find out following information**:
 
              •	To find whether smoking has any effect on medical insuarance charges.
              •	As BMI increases then charges for insurance increases are not.
@@ -48,7 +48,7 @@ Medical Insurance Predictor will help you to estimate the charges by using certa
 **Visualization** :
 
               1. If you are a smoker then you has to pay more, depend on your  BMI charges vary and as age increases charges increases.
-              2. You need to spend more money on your health insurance, so instead of that be healthy, take your health seriously, quit bad habits like smoking. Do                                  exercise to reduce your BMI and by doing that you can save your money that you are investing on Medical Insurance.
+              2. You need to spend more money on your health insurance, so instead of that be healthy, take your health seriously, quit bad habits like smoking. Do exercis reduce                  your BMI and by doing that you can save your money that you are investing on Medical Insurance.
               
 **Model Building** : 
 
