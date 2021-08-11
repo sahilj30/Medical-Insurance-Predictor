@@ -26,7 +26,7 @@ Medical Insurance Predictor will help you to estimate the charges by using certa
 
 **Visualization** : 
 
-              1. There are total 662 female who buy insuarance out of which 547 are non smokers. There are total 676 male who buy insuarance out of which 517 are non smokers.                      So non smokers are purchasing insurance more than smokers.
+              1. There are total 662 female who buy insuarance out of which 547 are non smokers. There are total 676 male who buy insuarance out of which 517 are non smokers. So                    non smokers are purchasing insurance more than smokers.
               2. Chargess doesnot varies much with respect to Gender.
               3. Chargess doesnot varies much with respect to region.
               4. As age increases then charges for insurance also increases.
