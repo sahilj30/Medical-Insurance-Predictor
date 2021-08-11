@@ -26,7 +26,7 @@ Medical Insurance Predictor will help you to estimate the charges by using certa
 
 **Visualization** : 
 
-              1. There are total 662 female who buy insuarance out of which 547 are non smokers. There are total 676 male who buy insuarance out of which 517 are non smokers. So                    non smokers are purchasing insurance more than smokers.
+              1. There are total 662 female who buy insuarance out of which 547 are non smokers. There are total 676 male who buy insuarance out of which 517 are non smokers. So  non smokers are purchasing insurance more than smokers.
               2. Chargess doesnot varies much with respect to Gender.
               3. Chargess doesnot varies much with respect to region.
               4. As age increases then charges for insurance also increases.
@@ -48,7 +48,7 @@ Medical Insurance Predictor will help you to estimate the charges by using certa
 **Visualization** :
 
               1. If you are a smoker then you has to pay more, depend on your  BMI charges vary and as age increases charges increases.
-              2. You need to spend more money on your health insurance, so instead of that be healthy, take your health seriously, quit bad habits like smoking. Do exercis reduce                  your BMI and by doing that you can save your money that you are investing on Medical Insurance.
+              2. You need to spend more money on your health insurance, so instead of that be healthy, take your health seriously, quit bad habits like smoking. Do exercis reduce your BMI and by doing that you can save your money that you are investing on Medical Insurance.
               
 **Model Building** : 
 
