@@ -52,6 +52,9 @@ Medical Insurance Predictor will help you to estimate the charges by using certa
       1. If you are a smoker then you has to pay more, depend on your  BMI charges vary and as age increases charges increases.
       2. You need to spend more money on your health insurance, so instead of that be healthy, take your health seriously, quit bad habits like smoking.
       3. Do exercis reduce your BMI and by doing that you can save your money that you are investing on Medical Insurance.
+      4. As you know people tendacy when it is free it has to be taken.
+      5. so there will be min 20-30k people who log in we save that data. and in todays scenario data is a most imp thing.
+      6. now we have data we have predicted charges so this sheet will give to sales team and they will target peoples who has higher charges ratio. so this  analysis  will be           helpfull for making profit.
               
 **Model Building** : 
 
